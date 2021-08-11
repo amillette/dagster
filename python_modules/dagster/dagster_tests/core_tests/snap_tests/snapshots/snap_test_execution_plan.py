@@ -18,7 +18,6 @@ snapshots[
     "solid_one",
     "solid_two"
   ],
-  "step_output_versions": [],
   "steps": [
     {
       "__class__": "ExecutionStepSnap",
@@ -142,7 +141,6 @@ snapshots[
   "step_keys_to_execute": [
     "noop_solid"
   ],
-  "step_output_versions": [],
   "steps": [
     {
       "__class__": "ExecutionStepSnap",
@@ -197,7 +195,6 @@ snapshots[
   "step_keys_to_execute": [
     "noop_solid"
   ],
-  "step_output_versions": [],
   "steps": [
     {
       "__class__": "ExecutionStepSnap",
@@ -270,7 +267,6 @@ snapshots[
     "comp_2.add_one",
     "add"
   ],
-  "step_output_versions": [],
   "steps": [
     {
       "__class__": "ExecutionStepSnap",
